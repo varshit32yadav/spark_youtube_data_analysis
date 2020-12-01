@@ -1,4 +1,4 @@
-# SparkProject_Youtube_Analysis
+# SparkProject_Youtube_Analysis_using scala
 This project has been developement on spark framework for analysis of youtube video data.
 
 ## Problem Description 
